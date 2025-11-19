@@ -1,6 +1,6 @@
 
 
-# Run and deploy your AI Studio app
+# peacemap
 
 Real-time conflict map with a natural language query interface by configuring Palantir AIP/Foundry flows and using data from ACLED's conflict database.
 
