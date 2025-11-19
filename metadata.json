@@ -1,0 +1,7 @@
+{
+  "name": "GeoConflict ",
+  "description": "A near-realtime conflict analysis dashboard powered by Gemini. It transforms natural language queries into interactive geospatial data, providing strategic insights and visual analytics on global stability events.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
